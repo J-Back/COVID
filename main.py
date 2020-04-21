@@ -1,5 +1,4 @@
 import pandas as pd
-
 import alabama, arizona, connecticut, delaware, florida, georgia, hawaii, new_hampshire, new_jersey, new_mexico, north_carolina
 
 dataCoronavirus = []

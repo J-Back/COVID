@@ -10,9 +10,9 @@ def RunScraping():
     connecticut.Main()
     florida.Main()
     georgia.Main()
-    # scripts.hawaii.Main()
+    hawaii.Main()
     new_hampshire.Main()
-    new_jersey.Main()
+    # new_jersey.Main()
     new_mexico.Main()
     north_carolina.Main()
 

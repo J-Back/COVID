@@ -302,162 +302,146 @@
 300,Georgia,Treutlen,2 ,0 ,2020-04-21
 301,Georgia,Unknown,470 ,0 ,2020-04-21
 302,Georgia,Non-Georgia Resident,970 ,7 ,2020-04-21
-303,New Hampshire,Belknap,26,0,2020-04-21
-304,New Hampshire,Carroll,30,0,2020-04-21
-305,New Hampshire,Cheshire,30,0,2020-04-21
-306,New Hampshire,Coos,2,0,2020-04-21
-307,New Hampshire,Grafton,45,0,2020-04-21
-308,New Hampshire,Hillsborough - Other,197,0,2020-04-21
-309,New Hampshire,Hillsborough - Manchester,272,0,2020-04-21
-310,New Hampshire,Hillsborough - Nashua,135,0,2020-04-21
-311,New Hampshire,Merrimack,96,0,2020-04-21
-312,New Hampshire,Rockingham,489,0,2020-04-21
-313,New Hampshire,Strafford,111,0,2020-04-21
-314,New Hampshire,Sullivan,10,0,2020-04-21
-315,New Hampshire,County TBA,4,0,2020-04-21
-316,New Jersey,Bergen County, 13 011,787,2020-04-21
-317,New Jersey,Hudson County, 11 150,492,2020-04-21
-318,New Jersey,Essex County, 10 729,751,2020-04-21
-319,New Jersey,Union County, 9 972,387,2020-04-21
-320,New Jersey,Passaic County, 8 479,263,2020-04-21
-321,New Jersey,Middlesex County, 8 346,345,2020-04-21
-322,New Jersey,Ocean County, 4 868,222,2020-04-21
-323,New Jersey,Monmouth County, 4 787,230,2020-04-21
-324,New Jersey,Morris County, 4 236,269,2020-04-21
-325,New Jersey,Mercer County, 2 591,122,2020-04-21
-326,New Jersey,Somerset County, 2 488,170,2020-04-21
-327,New Jersey,Camden County, 2 255,81,2020-04-21
-328,New Jersey,Burlington County, 1 663,61,2020-04-21
-329,New Jersey,Gloucester County, 770,25,2020-04-21
-330,New Jersey,Sussex County, 680,64,2020-04-21
-331,New Jersey,Warren County, 613,47,2020-04-21
-332,New Jersey,Hunterdon County, 419,18,2020-04-21
-333,New Jersey,Atlantic County, 410,19,2020-04-21
-334,New Jersey,Cumberland County, 338,4,2020-04-21
-335,New Jersey,Cape May County, 212,15,2020-04-21
-336,New Mexico,Bernalillo, 566, 24,2020-04-21
-337,New Mexico,Catron, 1, 0,2020-04-21
-338,New Mexico,Chaves, 21, 0,2020-04-21
-339,New Mexico,Cibola, 33, 2,2020-04-21
-340,New Mexico,Colfax, 5, 0,2020-04-21
-341,New Mexico,Curry, 10, 0,2020-04-21
-342,New Mexico,De Baca, 0, 0,2020-04-21
-343,New Mexico,Doña Ana, 73, 1,2020-04-21
-344,New Mexico,Eddy, 10, 1,2020-04-21
-345,New Mexico,Grant, 14, 0,2020-04-21
-346,New Mexico,Guadalupe, 1, 0,2020-04-21
-347,New Mexico,Harding, 0, 0,2020-04-21
-348,New Mexico,Hidalgo, 0, 0,2020-04-21
-349,New Mexico,Lea, 2, 0,2020-04-21
-350,New Mexico,Lincoln, 1, 0,2020-04-21
-351,New Mexico,Los Alamos, 6, 0,2020-04-21
-352,New Mexico,Luna, 3, 0,2020-04-21
-353,New Mexico,McKinley, 416, 5,2020-04-21
-354,New Mexico,Mora, 0, 0,2020-04-21
-355,New Mexico,Otero, 3, 0,2020-04-21
-356,New Mexico,Quay, 3, 1,2020-04-21
-357,New Mexico,Rio Arriba, 11, 0,2020-04-21
-358,New Mexico,Roosevelt, 1, 0,2020-04-21
-359,New Mexico,Sandoval, 317, 6,2020-04-21
-360,New Mexico,San Juan, 293, 17,2020-04-21
-361,New Mexico,San Miguel, 2, 0,2020-04-21
-362,New Mexico,Santa Fe, 86, 0,2020-04-21
-363,New Mexico,Sierra, 0, 0,2020-04-21
-364,New Mexico,Socorro, 31, 1,2020-04-21
-365,New Mexico,Taos, 16, 0,2020-04-21
-366,New Mexico,Torrance, 13, 0,2020-04-21
-367,New Mexico,Union, 0, 0,2020-04-21
-368,New Mexico,Valencia, 33, 0,2020-04-21
-369,North Carolina,Alamance County,52,0,2020-04-21
-370,North Carolina,Alexander County,3,0,2020-04-21
-371,North Carolina,Alleghany County,2,0,2020-04-21
-372,North Carolina,Anson County,18,0,2020-04-21
-373,North Carolina,Ashe County,4,0,2020-04-21
-374,North Carolina,Beaufort County,15,0,2020-04-21
-375,North Carolina,Bertie County,24,1,2020-04-21
-376,North Carolina,Bladen County,4,0,2020-04-21
-377,North Carolina,Brunswick County,37,2,2020-04-21
-378,North Carolina,Buncombe County,46,3,2020-04-21
-379,North Carolina,Burke County,75,8,2020-04-21
-380,North Carolina,Cabarrus County,216,5,2020-04-21
-381,North Carolina,Caldwell County,23,0,2020-04-21
-382,North Carolina,Carteret County,21,2,2020-04-21
-383,North Carolina,Caswell County,8,0,2020-04-21
-384,North Carolina,Catawba County,43,1,2020-04-21
-385,North Carolina,Chatham County,131,1,2020-04-21
-386,North Carolina,Cherokee County,14,1,2020-04-21
-387,North Carolina,Chowan County,6,0,2020-04-21
-388,North Carolina,Clay County,5,0,2020-04-21
-389,North Carolina,Cleveland County,44,1,2020-04-21
-390,North Carolina,Columbus County,61,3,2020-04-21
-391,North Carolina,Craven County,36,3,2020-04-21
-392,North Carolina,Cumberland County,127,6,2020-04-21
-393,North Carolina,Currituck County,2,0,2020-04-21
-394,North Carolina,Dare County,11,1,2020-04-21
-395,North Carolina,Davidson County,96,2,2020-04-21
-396,North Carolina,Davie County,24,2,2020-04-21
-397,North Carolina,Duplin County,32,0,2020-04-21
-398,North Carolina,Durham County,398,4,2020-04-21
-399,North Carolina,Edgecombe County,57,1,2020-04-21
-400,North Carolina,Forsyth County,128,5,2020-04-21
-401,North Carolina,Franklin County,74,11,2020-04-21
-402,North Carolina,Gaston County,118,3,2020-04-21
-403,North Carolina,Gates County,4,0,2020-04-21
-404,North Carolina,Granville County,114,5,2020-04-21
-405,North Carolina,Greene County,14,0,2020-04-21
-406,North Carolina,Guilford County,190,14,2020-04-21
-407,North Carolina,Halifax County,33,1,2020-04-21
-408,North Carolina,Harnett County,62,5,2020-04-21
-409,North Carolina,Haywood County,5,0,2020-04-21
-410,North Carolina,Henderson County,129,13,2020-04-21
-411,North Carolina,Hertford County,10,1,2020-04-21
-412,North Carolina,Hoke County,25,0,2020-04-21
-413,North Carolina,Iredell County,86,2,2020-04-21
-414,North Carolina,Jackson County,3,0,2020-04-21
-415,North Carolina,Johnston County,122,8,2020-04-21
-416,North Carolina,Jones County,9,1,2020-04-21
-417,North Carolina,Lee County,44,0,2020-04-21
-418,North Carolina,Lenoir County,26,0,2020-04-21
-419,North Carolina,Lincoln County,21,0,2020-04-21
-420,North Carolina,Macon County,2,1,2020-04-21
-421,North Carolina,Martin County,11,0,2020-04-21
-422,North Carolina,McDowell County,20,0,2020-04-21
-423,North Carolina,Mecklenburg County,"1,245",31,2020-04-21
-424,North Carolina,Mitchell County,5,0,2020-04-21
-425,North Carolina,Montgomery County,18,1,2020-04-21
-426,North Carolina,Moore County,67,2,2020-04-21
-427,North Carolina,Nash County,63,1,2020-04-21
-428,North Carolina,New Hanover County,62,1,2020-04-21
-429,North Carolina,Northampton County,73,2,2020-04-21
-430,North Carolina,Onslow County,33,1,2020-04-21
-431,North Carolina,Orange County,189,3,2020-04-21
-432,North Carolina,Pamlico County,6,0,2020-04-21
-433,North Carolina,Pasquotank County,32,1,2020-04-21
-434,North Carolina,Pender County,9,0,2020-04-21
-435,North Carolina,Perquimans County,8,0,2020-04-21
-436,North Carolina,Person County,18,0,2020-04-21
-437,North Carolina,Pitt County,96,1,2020-04-21
-438,North Carolina,Polk County,10,0,2020-04-21
-439,North Carolina,Randolph County,78,2,2020-04-21
-440,North Carolina,Richmond County,20,2,2020-04-21
-441,North Carolina,Robeson County,28,0,2020-04-21
-442,North Carolina,Rockingham County,20,2,2020-04-21
-443,North Carolina,Rowan County,254,13,2020-04-21
-444,North Carolina,Rutherford County,80,3,2020-04-21
-445,North Carolina,Sampson County,21,0,2020-04-21
-446,North Carolina,Scotland County,13,0,2020-04-21
-447,North Carolina,Stanly County,21,3,2020-04-21
-448,North Carolina,Stokes County,10,0,2020-04-21
-449,North Carolina,Surry County,12,0,2020-04-21
-450,North Carolina,Transylvania County,7,0,2020-04-21
-451,North Carolina,Tyrrell County,4,0,2020-04-21
-452,North Carolina,Union County,171,5,2020-04-21
-453,North Carolina,Vance County,34,1,2020-04-21
-454,North Carolina,Wake County,611,8,2020-04-21
-455,North Carolina,Warren County,3,0,2020-04-21
-456,North Carolina,Washington County,22,2,2020-04-21
-457,North Carolina,Watauga County,8,0,2020-04-21
-458,North Carolina,Wayne County,581,5,2020-04-21
-459,North Carolina,Wilkes County,5,1,2020-04-21
-460,North Carolina,Wilson County,118,4,2020-04-21
-461,North Carolina,Yadkin County,11,1,2020-04-21
+303,Hawaii,HAWAII COUNTY,64,0,2020-04-21
+304,Hawaii,HONOLULU COUNTY,385,6,2020-04-21
+305,Hawaii,KAUAI COUNTY,21,0,2020-04-21
+306,Hawaii,MAUI COUNTY,108,4,2020-04-21
+307,New Hampshire,Belknap,26,0,2020-04-21
+308,New Hampshire,Carroll,30,0,2020-04-21
+309,New Hampshire,Cheshire,30,0,2020-04-21
+310,New Hampshire,Coos,2,0,2020-04-21
+311,New Hampshire,Grafton,45,0,2020-04-21
+312,New Hampshire,Hillsborough - Other,197,0,2020-04-21
+313,New Hampshire,Hillsborough - Manchester,272,0,2020-04-21
+314,New Hampshire,Hillsborough - Nashua,135,0,2020-04-21
+315,New Hampshire,Merrimack,96,0,2020-04-21
+316,New Hampshire,Rockingham,489,0,2020-04-21
+317,New Hampshire,Strafford,111,0,2020-04-21
+318,New Hampshire,Sullivan,10,0,2020-04-21
+319,New Hampshire,County TBA,4,0,2020-04-21
+320,New Mexico,Bernalillo, 566, 24,2020-04-21
+321,New Mexico,Catron, 1, 0,2020-04-21
+322,New Mexico,Chaves, 21, 0,2020-04-21
+323,New Mexico,Cibola, 33, 2,2020-04-21
+324,New Mexico,Colfax, 5, 0,2020-04-21
+325,New Mexico,Curry, 10, 0,2020-04-21
+326,New Mexico,De Baca, 0, 0,2020-04-21
+327,New Mexico,Doña Ana, 73, 1,2020-04-21
+328,New Mexico,Eddy, 10, 1,2020-04-21
+329,New Mexico,Grant, 14, 0,2020-04-21
+330,New Mexico,Guadalupe, 1, 0,2020-04-21
+331,New Mexico,Harding, 0, 0,2020-04-21
+332,New Mexico,Hidalgo, 0, 0,2020-04-21
+333,New Mexico,Lea, 2, 0,2020-04-21
+334,New Mexico,Lincoln, 1, 0,2020-04-21
+335,New Mexico,Los Alamos, 6, 0,2020-04-21
+336,New Mexico,Luna, 3, 0,2020-04-21
+337,New Mexico,McKinley, 416, 5,2020-04-21
+338,New Mexico,Mora, 0, 0,2020-04-21
+339,New Mexico,Otero, 3, 0,2020-04-21
+340,New Mexico,Quay, 3, 1,2020-04-21
+341,New Mexico,Rio Arriba, 11, 0,2020-04-21
+342,New Mexico,Roosevelt, 1, 0,2020-04-21
+343,New Mexico,Sandoval, 317, 6,2020-04-21
+344,New Mexico,San Juan, 293, 17,2020-04-21
+345,New Mexico,San Miguel, 2, 0,2020-04-21
+346,New Mexico,Santa Fe, 86, 0,2020-04-21
+347,New Mexico,Sierra, 0, 0,2020-04-21
+348,New Mexico,Socorro, 31, 1,2020-04-21
+349,New Mexico,Taos, 16, 0,2020-04-21
+350,New Mexico,Torrance, 13, 0,2020-04-21
+351,New Mexico,Union, 0, 0,2020-04-21
+352,New Mexico,Valencia, 33, 0,2020-04-21
+353,North Carolina,Alamance County,52,0,2020-04-21
+354,North Carolina,Alexander County,3,0,2020-04-21
+355,North Carolina,Alleghany County,2,0,2020-04-21
+356,North Carolina,Anson County,18,0,2020-04-21
+357,North Carolina,Ashe County,4,0,2020-04-21
+358,North Carolina,Beaufort County,15,0,2020-04-21
+359,North Carolina,Bertie County,24,1,2020-04-21
+360,North Carolina,Bladen County,4,0,2020-04-21
+361,North Carolina,Brunswick County,37,2,2020-04-21
+362,North Carolina,Buncombe County,46,3,2020-04-21
+363,North Carolina,Burke County,75,8,2020-04-21
+364,North Carolina,Cabarrus County,216,5,2020-04-21
+365,North Carolina,Caldwell County,23,0,2020-04-21
+366,North Carolina,Carteret County,21,2,2020-04-21
+367,North Carolina,Caswell County,8,0,2020-04-21
+368,North Carolina,Catawba County,43,1,2020-04-21
+369,North Carolina,Chatham County,131,1,2020-04-21
+370,North Carolina,Cherokee County,14,1,2020-04-21
+371,North Carolina,Chowan County,6,0,2020-04-21
+372,North Carolina,Clay County,5,0,2020-04-21
+373,North Carolina,Cleveland County,44,1,2020-04-21
+374,North Carolina,Columbus County,61,3,2020-04-21
+375,North Carolina,Craven County,36,3,2020-04-21
+376,North Carolina,Cumberland County,127,6,2020-04-21
+377,North Carolina,Currituck County,2,0,2020-04-21
+378,North Carolina,Dare County,11,1,2020-04-21
+379,North Carolina,Davidson County,96,2,2020-04-21
+380,North Carolina,Davie County,24,2,2020-04-21
+381,North Carolina,Duplin County,32,0,2020-04-21
+382,North Carolina,Durham County,398,4,2020-04-21
+383,North Carolina,Edgecombe County,57,1,2020-04-21
+384,North Carolina,Forsyth County,128,5,2020-04-21
+385,North Carolina,Franklin County,74,11,2020-04-21
+386,North Carolina,Gaston County,118,3,2020-04-21
+387,North Carolina,Gates County,4,0,2020-04-21
+388,North Carolina,Granville County,114,5,2020-04-21
+389,North Carolina,Greene County,14,0,2020-04-21
+390,North Carolina,Guilford County,190,14,2020-04-21
+391,North Carolina,Halifax County,33,1,2020-04-21
+392,North Carolina,Harnett County,62,5,2020-04-21
+393,North Carolina,Haywood County,5,0,2020-04-21
+394,North Carolina,Henderson County,129,13,2020-04-21
+395,North Carolina,Hertford County,10,1,2020-04-21
+396,North Carolina,Hoke County,25,0,2020-04-21
+397,North Carolina,Iredell County,86,2,2020-04-21
+398,North Carolina,Jackson County,3,0,2020-04-21
+399,North Carolina,Johnston County,122,8,2020-04-21
+400,North Carolina,Jones County,9,1,2020-04-21
+401,North Carolina,Lee County,44,0,2020-04-21
+402,North Carolina,Lenoir County,26,0,2020-04-21
+403,North Carolina,Lincoln County,21,0,2020-04-21
+404,North Carolina,Macon County,2,1,2020-04-21
+405,North Carolina,Martin County,11,0,2020-04-21
+406,North Carolina,McDowell County,20,0,2020-04-21
+407,North Carolina,Mecklenburg County,"1,245",31,2020-04-21
+408,North Carolina,Mitchell County,5,0,2020-04-21
+409,North Carolina,Montgomery County,18,1,2020-04-21
+410,North Carolina,Moore County,67,2,2020-04-21
+411,North Carolina,Nash County,63,1,2020-04-21
+412,North Carolina,New Hanover County,62,1,2020-04-21
+413,North Carolina,Northampton County,73,2,2020-04-21
+414,North Carolina,Onslow County,33,1,2020-04-21
+415,North Carolina,Orange County,189,3,2020-04-21
+416,North Carolina,Pamlico County,6,0,2020-04-21
+417,North Carolina,Pasquotank County,32,1,2020-04-21
+418,North Carolina,Pender County,9,0,2020-04-21
+419,North Carolina,Perquimans County,8,0,2020-04-21
+420,North Carolina,Person County,18,0,2020-04-21
+421,North Carolina,Pitt County,96,1,2020-04-21
+422,North Carolina,Polk County,10,0,2020-04-21
+423,North Carolina,Randolph County,78,2,2020-04-21
+424,North Carolina,Richmond County,20,2,2020-04-21
+425,North Carolina,Robeson County,28,0,2020-04-21
+426,North Carolina,Rockingham County,20,2,2020-04-21
+427,North Carolina,Rowan County,254,13,2020-04-21
+428,North Carolina,Rutherford County,80,3,2020-04-21
+429,North Carolina,Sampson County,21,0,2020-04-21
+430,North Carolina,Scotland County,13,0,2020-04-21
+431,North Carolina,Stanly County,21,3,2020-04-21
+432,North Carolina,Stokes County,10,0,2020-04-21
+433,North Carolina,Surry County,12,0,2020-04-21
+434,North Carolina,Transylvania County,7,0,2020-04-21
+435,North Carolina,Tyrrell County,4,0,2020-04-21
+436,North Carolina,Union County,171,5,2020-04-21
+437,North Carolina,Vance County,34,1,2020-04-21
+438,North Carolina,Wake County,611,8,2020-04-21
+439,North Carolina,Warren County,3,0,2020-04-21
+440,North Carolina,Washington County,22,2,2020-04-21
+441,North Carolina,Watauga County,8,0,2020-04-21
+442,North Carolina,Wayne County,581,5,2020-04-21
+443,North Carolina,Wilkes County,5,1,2020-04-21
+444,North Carolina,Wilson County,118,4,2020-04-21
+445,North Carolina,Yadkin County,11,1,2020-04-21
